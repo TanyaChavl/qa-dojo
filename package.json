@@ -1,0 +1,25 @@
+{
+  "name": "qa-dojo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanyaChavl/qa-dojo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/TanyaChavl/qa-dojo/issues"
+  },
+  "homepage": "https://github.com/TanyaChavl/qa-dojo#readme",
+  "dependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.4",
+    "dotenv": "^18.0.5",
+    "playwright": "^1.63.0"
+  }
+}
